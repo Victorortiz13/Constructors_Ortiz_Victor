@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Constructors_Ortiz_Victor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+862329288e6bbda18a3b9dfe88b45b4a8a4b6ee5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Constructors_Ortiz_Victor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Constructors_Ortiz_Victor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

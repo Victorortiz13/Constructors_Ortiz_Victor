@@ -1,0 +1,15 @@
+C:\Users\VICTORORTIZ\source\repos\Constructors_Ortiz_Victor\bin\Debug\net8.0\Constructors_Ortiz_Victor.exe
+C:\Users\VICTORORTIZ\source\repos\Constructors_Ortiz_Victor\bin\Debug\net8.0\Constructors_Ortiz_Victor.deps.json
+C:\Users\VICTORORTIZ\source\repos\Constructors_Ortiz_Victor\bin\Debug\net8.0\Constructors_Ortiz_Victor.runtimeconfig.json
+C:\Users\VICTORORTIZ\source\repos\Constructors_Ortiz_Victor\bin\Debug\net8.0\Constructors_Ortiz_Victor.dll
+C:\Users\VICTORORTIZ\source\repos\Constructors_Ortiz_Victor\bin\Debug\net8.0\Constructors_Ortiz_Victor.pdb
+C:\Users\VICTORORTIZ\source\repos\Constructors_Ortiz_Victor\obj\Debug\net8.0\Constructors_Ortiz_Victor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VICTORORTIZ\source\repos\Constructors_Ortiz_Victor\obj\Debug\net8.0\Constructors_Ortiz_Victor.AssemblyInfoInputs.cache
+C:\Users\VICTORORTIZ\source\repos\Constructors_Ortiz_Victor\obj\Debug\net8.0\Constructors_Ortiz_Victor.AssemblyInfo.cs
+C:\Users\VICTORORTIZ\source\repos\Constructors_Ortiz_Victor\obj\Debug\net8.0\Constructors_Ortiz_Victor.csproj.CoreCompileInputs.cache
+C:\Users\VICTORORTIZ\source\repos\Constructors_Ortiz_Victor\obj\Debug\net8.0\Constructors_Ortiz_Victor.sourcelink.json
+C:\Users\VICTORORTIZ\source\repos\Constructors_Ortiz_Victor\obj\Debug\net8.0\Constructors_Ortiz_Victor.dll
+C:\Users\VICTORORTIZ\source\repos\Constructors_Ortiz_Victor\obj\Debug\net8.0\refint\Constructors_Ortiz_Victor.dll
+C:\Users\VICTORORTIZ\source\repos\Constructors_Ortiz_Victor\obj\Debug\net8.0\Constructors_Ortiz_Victor.pdb
+C:\Users\VICTORORTIZ\source\repos\Constructors_Ortiz_Victor\obj\Debug\net8.0\Constructors_Ortiz_Victor.genruntimeconfig.cache
+C:\Users\VICTORORTIZ\source\repos\Constructors_Ortiz_Victor\obj\Debug\net8.0\ref\Constructors_Ortiz_Victor.dll
