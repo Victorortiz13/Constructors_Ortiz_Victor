@@ -8,13 +8,13 @@ namespace Constructors_Ortiz_Victor
 {
     class Game
     {
-        // A public string field that initilizes a title and genre
+        // A public string field for a title and genre variable
         public string title, genre;
-        // 
-        public Game(string titleArea = "Unkown Title", string genreArea = "Something") 
+        // A public constructor that takes two string paramiters and sets them to the string variables title and genre
+        public Game(string titleP = "Unkown Title", string genreP = "Something") 
         {
-            title = titleArea;
-            genre = genreArea;
+            title = titleP;
+            genre = genreP;
         }
 
         
